@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "lex::type() const:lex.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Parser::Exp7():lex.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Parser::Variable():lex.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Parser::Program():lex.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Parser::Expression():lex.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Interpreter::run():interpreter.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "tid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
